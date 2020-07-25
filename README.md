@@ -1,4 +1,4 @@
-# xplorai
+# disposable_emails_reserved_usernames
 
 
 Hello! The the two files uploaded here helps you in building a <b>better validation system</b> for forms on your website/application.
